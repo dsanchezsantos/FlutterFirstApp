@@ -1,4 +1,4 @@
-# teste1
+# People Counter
 
 A new Flutter project.
 
