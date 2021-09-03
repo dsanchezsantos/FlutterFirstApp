@@ -1,6 +1,6 @@
 # People Counter
 
-A new Flutter project.
+An app made for count people through buttons. My first project made with Flutter.
 
 ## Getting Started
 
